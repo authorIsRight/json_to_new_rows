@@ -1,0 +1,6 @@
+﻿ID ,Some data,Some JSON column
+2,somedata2," [{""FL"":""/media.nl?id=someLinkToTheFile0"",""NM"":""someFileName0"",""LM"":""test2""}, {""FL"":""/media.nl?id=someLinkToTheFile0"",""NM"":""someFileName0"",""LM"":""test2""}, {""FL"":""/media.nl?id=someLinkToTheFile0"",""NM"":""someFileName0"",""LM"":""test2""},{""FL"":""/media.nl?id=someLinkToTheFile0"",""NM"":""someFileName0"",""LM"":""test2""}] "
+3,somedata3," [{""FL"":""/media.nl?id=someLinkToTheFile1"",""NM"":""someFileName1""},{""FL"":""/media.nl?id=someLinkToTheFile2"",""NM"":""someFileName2"",""DZ"":""sometest""}] "
+1, somedata,
+4,somedata2," {""FL"":""/media.nl?id=someLinkToTheFile0"",""NM"":""someFileName2"",""LM"":""test3""}"
+5,somedata5," [{""FL"":""/media.nl?id=someLinkToTheFile0"",""NM"":""someFileName5"",""LM"":""test4""}]"

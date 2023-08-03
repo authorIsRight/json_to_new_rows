@@ -1,0 +1,10 @@
+ID ,Some data,0,DZ,FL,LM,NM
+2,somedata2,,,/media.nl?id=someLinkToTheFile0,test2,someFileName0
+2,somedata2,,,/media.nl?id=someLinkToTheFile0,test2,someFileName0
+2,somedata2,,,/media.nl?id=someLinkToTheFile0,test2,someFileName0
+2,somedata2,,,/media.nl?id=someLinkToTheFile0,test2,someFileName0
+3,somedata3,,,/media.nl?id=someLinkToTheFile1,,someFileName1
+3,somedata3,,sometest,/media.nl?id=someLinkToTheFile2,,someFileName2
+1, somedata,,,,,
+4,somedata2,,,/media.nl?id=someLinkToTheFile0,test3,someFileName2
+5,somedata5,,,/media.nl?id=someLinkToTheFile0,test4,someFileName5
